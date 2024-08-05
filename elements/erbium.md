@@ -1,6 +1,6 @@
 ---
 layout: page
-title: erbium
+title: Erbium
 ---
 
 Symbol : Er
