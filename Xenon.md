@@ -1,7 +1,7 @@
 # Xenon page
 
 ---
-layout: page
+layout: Elements
 title: Xenon
 ---
 
