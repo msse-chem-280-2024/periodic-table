@@ -5,7 +5,7 @@ title: Tungsten
 
 Symbol : W
 
-Atomic Number : 11
+Atomic Number : 74
 
 Fun facts:
 
