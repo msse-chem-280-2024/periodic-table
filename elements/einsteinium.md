@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einsteinium
+title: einsteinium
 ---
 
 Symbol : Es
