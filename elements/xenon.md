@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sodium
+title: Xenon
 ---
 
 Symbol : Xe  
