@@ -1,6 +1,5 @@
----
 layout: page
-title: Ogannesson
+title: Oganesson
 ---
 
 Symbol : Og
