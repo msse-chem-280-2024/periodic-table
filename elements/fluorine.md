@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flourine
+title: Fluorine
 ---
 
 Symbol : F
