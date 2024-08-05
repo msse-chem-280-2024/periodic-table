@@ -4,6 +4,7 @@ title: Astatine
 ---
 
 Symbol : At
+
 Atomic Number : 85 
 
 Fun fact: Astatine is the rarest naturally occurring element.
