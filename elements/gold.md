@@ -1,10 +1,9 @@
 ---
 layout: page
-
 title: Gold
 ---
 
-Symbol: Au
+Symbol: Au  
 Atomic Number: 79
 
 Fun Facts:
