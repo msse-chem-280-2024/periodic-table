@@ -1,6 +1,6 @@
 ---
 layout: page
-title: manganese
+title: Manganese
 ---
 
 Symbol : Mn
