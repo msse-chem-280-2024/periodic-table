@@ -6,4 +6,4 @@ title: manganese
 Symbol : Mn
 Atomic Number : 25
 
-Manganese is naturally occurring and found in rocks and plants. Small amounts of manganese are part of a healthy diet and found in grains, beans, and tea. It is also found in the liver, pancreas, kidney, and bones.
+Manganese is a naturrally occurring element found in rocks and plants. Small amounts of it are part of a healthy diet and found in beans and tea. It is also found in the liver, pancreas, kidney, and bones of the human body.
