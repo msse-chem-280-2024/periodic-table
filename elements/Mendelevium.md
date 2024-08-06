@@ -6,4 +6,6 @@ title: Mendelevium
 Symbol : Md  
 Atomic Number : 101 
 
-Mendelevium is a synthetic chemical element; it has symbol Md (formerly Mv) and atomic number 101. A metallic radioactive transuranium element in the actinide series, it is the first element by atomic number that currently cannot be produced in macroscopic quantities by neutron bombardment of lighter elements.
+Mendelevium is a synthetic chemical element in the actinide series. It is metallic, radioactive, and a transuranium element. It is the first element with an atomic number that cannot be produced in large quantities through neutron bombardment of lighter elements and has no economic applications.
+
+Source: Wikipedia (2024) Mendelevium. https://en.wikipedia.org/wiki/Mendelevium
