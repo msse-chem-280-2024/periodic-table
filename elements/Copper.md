@@ -1,6 +1,6 @@
 ---
 layout: page
-titer: Copper
+title: Copper
 ---
 
 Symbol : Cu
